@@ -50,7 +50,7 @@ Este projeto realiza uma análise exploratória de dados de vendas provenientes 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Ewerton-Florestal/seu-repo.git
+   git clone https://github.com/Ewerton-Florestal/Chalenge_Alura_DS
    cd seu-repo
    ```
 
